@@ -1,2 +1,2 @@
 # Gerador-de-Senha
-Um site para gerar senhas com tamanho variado
+Site desenvolvido para gerar senhas aleatórias com tamanho variado definido pelo próprio usuário.
